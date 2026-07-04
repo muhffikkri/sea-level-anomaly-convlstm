@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+xarray
+statsmodels
+tqdm
+joblib
+scikit-learn
+dask
+netCDF4
