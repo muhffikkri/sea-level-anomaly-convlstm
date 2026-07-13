@@ -9,3 +9,7 @@ joblib
 scikit-learn
 dask
 netCDF4
+tensorflow>=2.16.1 
+xgboost>=2.0.0 
+scikit-learn>=1.6.1 
+pyarrow
